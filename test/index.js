@@ -51,4 +51,9 @@ describe('readDir', function () {
         be.err.equal(['./test/texture/subfolder',
             './test/texture/subfolder/subfolder2' ], files);
     });
+    it('should be return empty array if directory not exists', function () {
+        let files = readdirSync('./test/texture-wrong');
+        console.log(files);
+        be.err.equal([], files);
+    });
 });
