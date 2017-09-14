@@ -1,6 +1,6 @@
 {
   "name": "readdirsync2",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "readdirSync with some useful options: recursively, exclude name and ext, get only file or directory.",
   "main": "index.js",
   "scripts": {
