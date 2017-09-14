@@ -2,8 +2,8 @@
 <h1>readdirsync2</h1>
 readdirSync with some useful options: recursively, exclude name and ext, get only file or directory.
 <br/><br/>
-<a href="https://travis-ci.org/fabioricali/readdirsync2" target="_blank"><img src="https://travis-ci.org/fabioricali/readdirsync2.svg?branch=master" title="Build Status"/></a>
-<a href="https://coveralls.io/github/fabioricali/readdirsync2?branch=master" target="_blank"><img src="https://coveralls.io/repos/github/fabioricali/readdirsync2/badge.svg?branch=master" title="Coverage Status"/></a>
+<a href="https://travis-ci.org/fabioricali/readdirSync2" target="_blank"><img src="https://travis-ci.org/fabioricali/readdirSync2.svg?branch=master" title="Build Status"/></a>
+<a href="https://coveralls.io/github/fabioricali/readdirSync2?branch=master" target="_blank"><img src="https://coveralls.io/repos/github/fabioricali/readdirSync2/badge.svg?branch=master" title="Coverage Status"/></a>
 <a href="https://opensource.org/licenses/MIT" target="_blank"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" title="License: MIT"/></a>
 <img src="https://img.shields.io/badge/team-terrons-orange.svg" title="Team Terrons"/>
 </div>
